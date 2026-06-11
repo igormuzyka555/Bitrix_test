@@ -1,0 +1,8 @@
+<?php
+$sSectionName = "Exmaple 2";
+$arDirProperties = array(
+    'title' => 'SEO заголовок',
+    "description" => "Описание страницы",
+    "keywords" => "Ключевые слова"
+);
+?>

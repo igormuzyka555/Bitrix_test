@@ -5,7 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3079d0f-1c31-4963-a8dd-617d9e83ffad" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/example2/.section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.access.php" beforeDir="false" afterPath="$PROJECT_DIR$/.access.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.section.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/messageservice/b1/b172ba08c82e327a15fe686e8b0692e3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/messageservice/b1/b172ba08c82e327a15fe686e8b0692e3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/furniture.catalog.random/06f/a3/a34e2874c597492a8cd2c31467bfbe30.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/furniture.catalog.random/06f/a3/a34e2874c597492a8cd2c31467bfbe30.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu.sections/06f/fc/fc96e6c7095b97a38766eb4b46c2f973.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu.sections/06f/fc/fc96e6c7095b97a38766eb4b46c2f973.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu/06f/60/6056a296ad7c85107a1e8fbf2d9551f8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu/06f/60/6056a296ad7c85107a1e8fbf2d9551f8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu/06f/8f/8f1f1ee48c24b1863433616ac7b55441.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/menu/06f/8f/8f1f1ee48c24b1863433616ac7b55441.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/news.list/06f/0b/0b54d6474ae317b3e3fb2308bfe245b0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/news.list/06f/0b/0b54d6474ae317b3e3fb2308bfe245b0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/25/2585fd346bcbcf4f86a3674070610db2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/25/2585fd346bcbcf4f86a3674070610db2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/4b/4bb100540ebb9710569c3dc3d150c313.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/4b/4bb100540ebb9710569c3dc3d150c313.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/d3/d3de0f78a5511e1a225f082e29d7ec3a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/_flags/d3/d3de0f78a5511e1a225f082e29d7ec3a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/91/9152319073d9fb5e85c763087a790dd8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/91/9152319073d9fb5e85c763087a790dd8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/a1/a1fe518beafb6b685b049b47d47a4a98.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/a1/a1fe518beafb6b685b049b47d47a4a98.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/d0/d06286eff6bbce155cecce0ef9317462.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/d0/d06286eff6bbce155cecce0ef9317462.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_codes/ec/eca380947aa83b89ebfde8658c6bb7b6.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_codes/ec/eca380947aa83b89ebfde8658c6bb7b6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/b3/b398c1451c5de1b04f0c6f706a76fe58.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/b3/b398c1451c5de1b04f0c6f706a76fe58.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_module_to_module/2f/2fc1306afcc9b22f7c8a22f470d63cc4.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_module_to_module/2f/2fc1306afcc9b22f7c8a22f470d63cc4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/05/05039c396ee4176d523cf59a95c69194.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/05/05039c396ee4176d523cf59a95c69194.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/05/05a4b854c735508fd5190cef185874b0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/05/05a4b854c735508fd5190cef185874b0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/13/13f603a9b5480f67b06d91ee6b6490d8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/13/13f603a9b5480f67b06d91ee6b6490d8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/16/16de0975485ccb24f272fa0deb2401a3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/16/16de0975485ccb24f272fa0deb2401a3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/2e/2e253c685b7c7d024ea4df067c3f9d7a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/2e/2e253c685b7c7d024ea4df067c3f9d7a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/3d/3d0d212c3f33a5448c416c794a79fdc0.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/3d/3d0d212c3f33a5448c416c794a79fdc0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/50/50e86f69102f2636b841acbcfd284541.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/50/50e86f69102f2636b841acbcfd284541.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/66/663c0b1ce5c397ac48c08a6b010307f6.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/66/663c0b1ce5c397ac48c08a6b010307f6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6f/6f7a4dd1eb5da0f11a25e38c162adc0a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/6f/6f7a4dd1eb5da0f11a25e38c162adc0a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/84/842ea7d8212267935138284eed21a90b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/84/842ea7d8212267935138284eed21a90b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/a3/a3a3aab7dd1920fefc85eba3261f30c7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/a3/a3a3aab7dd1920fefc85eba3261f30c7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/d5/d56664d14aae6347529fa48ce21da812.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/d5/d56664d14aae6347529fa48ce21da812.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd7a69ea806a5967b0b29bf6c61c64c7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd7a69ea806a5967b0b29bf6c61c64c7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd85da24e18f5c034a9bda482c8dd819.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/dd/dd85da24e18f5c034a9bda482c8dd819.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/e6/e69b462580b3cd8550c28eb99ac27172.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/e6/e69b462580b3cd8550c28eb99ac27172.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f3/f3dbd89793a3538056e89c3a43664131.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_option/f3/f3dbd89793a3538056e89c3a43664131.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_filter_mask/3e/3e109cefdbde61bf61a07dc79523b3a8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_redirect_url/dd/ddc39d36dca0e1d26d89e2b1ae752402.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_sec_redirect_url/dd/ddc39d36dca0e1d26d89e2b1ae752402.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field_iblock_2_section/94/94ce3a26724eea812b5d5794bbbe05c4.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field_iblock_2_section/94/94ce3a26724eea812b5d5794bbbe05c4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field_user/2f/2f0a715c791f6536876a0da8bd0cae52.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field_user/2f/2f0a715c791f6536876a0da8bd0cae52.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/d6/d63046ac9d69cd1b88121c64e33c8aba.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/d6/d63046ac9d69cd1b88121c64e33c8aba.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock/90/907a86174bb52917bc05f90b0d414300.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock/90/907a86174bb52917bc05f90b0d414300.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/da/da661424052a93de6e3701bb55311915.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/da/da661424052a93de6e3701bb55311915.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/e7/e7b48e0d350f0ab30b1521637b694064.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/e7/e7b48e0d350f0ab30b1521637b694064.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/f9/f94b0a63303f0346e4d4843d1ecf0549.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_iblock_property/f9/f94b0a63303f0346e4d4843d1ecf0549.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/89/89682c2cc68ace89f955850e859557f2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang/89/89682c2cc68ace89f955850e859557f2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang_domain/e9/e9295b583c654df3722874abbbd46928.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_lang_domain/e9/e9295b583c654df3722874abbbd46928.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_site_template/01/0166a476c5a66a2f2c5dc27451c7708b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_site_template/01/0166a476c5a66a2f2c5dc27451c7708b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_socialservices_ap/20/20305753e215a6d3d488d18ab3154acb.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_socialservices_ap/20/20305753e215a6d3d488d18ab3154acb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task/6a/6af57df15b26612f9a56f8b0b003c4c3.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task/6a/6af57df15b26612f9a56f8b0b003c4c3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task/ba/ba3051a4a8a57558049842d568b41914.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task/ba/ba3051a4a8a57558049842d568b41914.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/01/01c09a0c8f5b2b878f5ce348b2bc2474.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/01/01c09a0c8f5b2b878f5ce348b2bc2474.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/48/48c317f567010c9400780516df4f99b7.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/48/48c317f567010c9400780516df4f99b7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/59/5960af6dc73b7a4ebd85bd3dd6ebe4d4.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/59/5960af6dc73b7a4ebd85bd3dd6ebe4d4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/62/6255681d8276b91cb977460b9ab0662f.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/62/6255681d8276b91cb977460b9ab0662f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/66/66a7cb99da86b6e7a1cff808170791af.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/66/66a7cb99da86b6e7a1cff808170791af.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/8b/8bbbb75fbd183073bb812d3491ba7aae.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/8b/8bbbb75fbd183073bb812d3491ba7aae.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/8c/8c4547b9e9110188a1b71c16211d8f0a.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/8c/8c4547b9e9110188a1b71c16211d8f0a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/b6/b6a69477093146f9fb1ecec09cc0e98b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/b6/b6a69477093146f9fb1ecec09cc0e98b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/b9/b9ecf298a2b2bd226f489367aaf791e9.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_task_operation/b9/b9ecf298a2b2bd226f489367aaf791e9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_user_auth_action/73/73c85e2dffc2cf2ab28a090b3043866b.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/orm_b_user_auth_action/73/73c85e2dffc2cf2ab28a090b3043866b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/site_checker/5c/5c6da7e88d19bbeee0ae40ae271e99a1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" beforeDir="false" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlrewrite.php" beforeDir="false" afterPath="$PROJECT_DIR$/urlrewrite.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,70 +92,89 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;igormuzyka555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/igormuzyka555/Bitrix_test.git&quot;,
+    &quot;accountId&quot;: &quot;31054150-b863-439f-91df-a9e0041070da&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.510238863276744" />
-      <entry key="MS500" value="3.106640248288222" />
-      <entry key="S2" value="5.403356311820837" />
-      <entry key="S5" value="6.999975511014673" />
-      <entry key="S10" value="9.68056442391332" />
-      <entry key="S30" value="15.310373096538635" />
-      <entry key="S60" value="19.73310623555137" />
-      <entry key="M2" value="28.878438486919404" />
-      <entry key="M5" value="45.13552137494378" />
-      <entry key="M10" value="54.79977059396707" />
-      <entry key="M15" value="58.74897518703999" />
-      <entry key="M30" value="63.132486009689245" />
-      <entry key="H1" value="65.50241774315104" />
-      <entry key="H2" value="66.73481659381748" />
-      <entry key="H4" value="67.36325440565314" />
-      <entry key="D1" value="67.8932940039437" />
-      <entry key="W1" value="67.9847419767871" />
+      <entry key="MS100" value="1.0003133364007721" />
+      <entry key="MS500" value="1.1991600240713955" />
+      <entry key="S2" value="1.6680370391950496" />
+      <entry key="S5" value="1.85098169435007" />
+      <entry key="S10" value="1.9225303716217086" />
+      <entry key="S30" value="2.008682567082907" />
+      <entry key="S60" value="2.1745145131216215" />
+      <entry key="M2" value="2.467724852614878" />
+      <entry key="M5" value="3.93713745380444" />
+      <entry key="M10" value="9.139035658835866" />
+      <entry key="M15" value="16.92239450359937" />
+      <entry key="M30" value="39.01636558502985" />
+      <entry key="H1" value="63.30055293852182" />
+      <entry key="H2" value="81.63698325371571" />
+      <entry key="H4" value="92.95179806440684" />
+      <entry key="D1" value="103.69388625301048" />
+      <entry key="W1" value="105.66718225819338" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS500" value="2.158719337575909E-81" />
+      <entry key="S2" value="6.816305478606395E-21" />
+      <entry key="S5" value="8.578663210195304E-9" />
+      <entry key="S10" value="9.26210732511522E-5" />
+      <entry key="S30" value="0.04524493163848842" />
+      <entry key="S60" value="0.21270856033194435" />
+      <entry key="M2" value="0.46120338282794976" />
+      <entry key="M5" value="0.7337650020609654" />
+      <entry key="M10" value="0.8566008417349155" />
+      <entry key="M15" value="0.9019566492526648" />
+      <entry key="M30" value="0.9497139828667708" />
+      <entry key="H1" value="0.9745326997421742" />
+      <entry key="H2" value="0.987184227863358" />
+      <entry key="H4" value="0.9935714508093305" />
+      <entry key="D1" value="0.998925693930709" />
+      <entry key="W1" value="0.9998464569961214" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.468731097592196" />
-      <entry key="MS500" value="3.075360338546657" />
-      <entry key="S2" value="5.380922976287871" />
-      <entry key="S5" value="6.987387033392474" />
-      <entry key="S10" value="9.67206481847972" />
-      <entry key="S30" value="15.306112296393946" />
-      <entry key="S60" value="19.730448653220883" />
-      <entry key="M2" value="28.87656124877852" />
-      <entry key="M5" value="45.13436181428498" />
-      <entry key="M10" value="54.799065329226494" />
-      <entry key="M15" value="58.74847037055024" />
-      <entry key="M30" value="63.13221423813057" />
-      <entry key="H1" value="65.50227659432998" />
-      <entry key="H2" value="66.73474464715555" />
-      <entry key="H4" value="67.36321808195233" />
-      <entry key="D1" value="67.89328790069912" />
-      <entry key="W1" value="67.98474110367953" />
+      <entry key="MS100" value="0.9333038825211989" />
+      <entry key="MS500" value="1.179678328686158" />
+      <entry key="S2" value="1.6597329482227068" />
+      <entry key="S5" value="1.8471225730792333" />
+      <entry key="S10" value="1.9205498833650594" />
+      <entry key="S30" value="2.045077604110137" />
+      <entry key="S60" value="2.366236321995987" />
+      <entry key="M2" value="2.9054966190015046" />
+      <entry key="M5" value="4.655608099820167" />
+      <entry key="M10" value="9.986501816094083" />
+      <entry key="M15" value="17.817789114592134" />
+      <entry key="M30" value="39.96243282313643" />
+      <entry key="H1" value="64.27311508076767" />
+      <entry key="H2" value="82.62313280064161" />
+      <entry key="H4" value="93.94483767268703" />
+      <entry key="D1" value="104.69272107472663" />
+      <entry key="W1" value="106.66701567568028" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
@@ -100,6 +196,7 @@
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
@@ -148,6 +245,8 @@
       <workItem from="1781161240203" duration="19000" />
       <workItem from="1781161394044" duration="11000" />
       <workItem from="1781161963084" duration="5018000" />
+      <workItem from="1781171258029" duration="3646000" />
+      <workItem from="1781184160466" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -171,6 +270,11 @@
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="ffd9e355-84e6-436b-8319-a6598e66faf4">
           <value>
             <State>

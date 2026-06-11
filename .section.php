@@ -1,8 +1,10 @@
 <?
-$sSectionName = "Главная";
-$arDirProperties = array(
-   "description" => "Мебельная компания осуществляет производство мебели на высококлассном оборудовании с применением минимальной доли ручного труда, что позволяет обеспечить высокое качество нашей продукции.",
-   "keywords" => "мягкая мебель, офисная мебель, мебель для кухни, детская мебель",
-   "robots" => "index, follow"
+$sSectionName = "exmaple 8";
+$arDirProperties = Array(
+   "description" => "Это Exmaple 1",
+   "keywords" => "Example 1",
+   "title" => "вот пример",
+   "keywords_inner" => "ываываыа",
+   "ROBOTS" => "index, follow"
 );
 ?>
