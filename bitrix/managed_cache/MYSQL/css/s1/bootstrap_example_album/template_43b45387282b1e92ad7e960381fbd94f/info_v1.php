@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/bootstrap_example_album/styles.css" => "1781256770224470",]; ?>

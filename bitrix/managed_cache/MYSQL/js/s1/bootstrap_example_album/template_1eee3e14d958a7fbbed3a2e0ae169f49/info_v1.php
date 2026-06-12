@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/bootstrap_example_album/js/bootstrap.bundle.js" => "178125677084158",]; ?>
